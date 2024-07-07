@@ -44,6 +44,16 @@
 <p><img src="https://raw.githubusercontent.com/zhaozixu-lab/-/main/test/202406301159072.png" alt="离谱"></p>
 <p><img src="https://raw.githubusercontent.com/zhaozixu-lab/-/main/test/%E4%B8%93%E7%94%A8.png" alt="这是人话吗"></p>
 <span class="hint--info hint--rounded hint--top" data-hint="这里是注释 :D" ontouchstart>这里是正文</span>
+
+
+<p>iframe测试</p>
+<div style="position: relative; padding: 30% 45%;">
+<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://zhaozixu-lab.github.io/" frameborder="1" scrolling="yes" width="320" height="240"</iframe>
+</div>
+
+
+
+
 ]]></content>
   </entry>
 </search>
