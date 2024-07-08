@@ -43,7 +43,7 @@
 <p><img src="https://raw.githubusercontent.com/zhaozixu-lab/-/main/test/%E6%99%BA%E8%83%BD%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA550%E8%87%B3%E8%87%BB%E6%8E%A2%E7%B4%A2%E7%89%88.png" alt="550Z"></p>
 <p><img src="https://raw.githubusercontent.com/zhaozixu-lab/-/main/test/202406301159072.png" alt="离谱"></p>
 <p><img src="https://raw.githubusercontent.com/zhaozixu-lab/-/main/test/%E4%B8%93%E7%94%A8.png" alt="这是人话吗"></p>
-<span class="hint--info hint--rounded hint--top" data-hint="这里是注释 :D" ontouchstart>这里是正文</span>
+<span class="hint--info hint--rounded hint--top" data-hint="这里是注释" ontouchstart>这里是正文</span>
 
 
 <p>iframe测试</p>
